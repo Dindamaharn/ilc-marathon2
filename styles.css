@@ -1,0 +1,103 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+
+.NAVIGATION-BAR {
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(5, 131, 189);
+    text-align: center;
+    color: white;
+    font-family: Helvetica;
+    font-size: 20px;
+    padding: 4%;
+    padding-top: 2rem;
+
+}
+
+
+
+.NAVBAR-1 {
+    background-color: orange;
+    text-align: center;
+    color: white;
+    padding: 4px;
+    display: flex;
+    font-family: Helvetica;
+    font-style: bold;
+    font-size: 15px;
+}
+
+.ul-navbar {
+    display: flex; 
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    font-family: Helvetica;
+}
+
+.li-navbar {
+    list-style-type: none;
+    padding: 10px;
+    margin: 5px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+.section-profil {
+    background-color: rgba(149, 145, 145, 0.705);
+    font-family: Helvetica;
+    font-size: 15px;
+}
+
+.img-profil {
+    border-radius: 10%;
+}
+
+.section-kegiatan {
+    background-color: rgba(149, 145, 145, 0.705);
+    font-family: Helvetica;
+    font-size: 15px;
+}
+
+.img-kegiatan {
+    border-radius: 10%;
+}
+
+.section-register{
+    background-color: rgba(149, 145, 145, 0.705);
+    font-family: Helvetica;
+    font-size: 15px;
+}
+
+.img-register {
+    border-radius: 10%;
+}
+
+.section-logo{
+    background-color: rgba(149, 145, 145, 0.705);
+    font-family: Helvetica;
+    font-size: 15px;
+    
+}
+
+.img-logo{
+    border-radius: 10%;
+}
+
+.section-akhir{
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(5, 131, 189);
+    text-align: center;
+    color: white;
+    font-family: Helvetica;
+    font-size: 15px;
+    padding: 2%;
+    padding-top: 2rem;
+}
